@@ -114,7 +114,7 @@
   
   <br>
   <figure>
-    <img src="/frontend/src/assets/images/local_storage_solution.PNG">
+    <img src="/frontend/src/assets/images/local_storage.PNG">
   </figure>
   <br>
   
