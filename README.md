@@ -1,41 +1,46 @@
 # Mini Clinical Data Reconciliation Engine README
-About: (React + Flask) A mini clinical data reconciliation engine that demonstrates how OpenAI API can be used to reconcile conflicting medical records. Built for an internship pre-assessment.
+<strong>About:</strong> (React + Flask) A mini clinical data reconciliation engine that demonstrates how OpenAI API can be used to reconcile conflicting medical records. Built for an internship pre-assessment.
 
-Local setup instructions (I use VS Code & its terminal):
+<strong>Local setup instructions (I use VS Code & its terminal):</strong>
 <ol>
   <li>
-    Clone the repository:
+    <strong>Clone the repository:</strong>
     <ul>
       <li>git clone https://github.com/gnbPlusPlus/mini_clinical_data_reconciliation_engine.git</li>
       <li>cd mini_clinical_data_reconciliation_engine <em>(NOTE: this is the root folder)</em></li>
     </ul>
   </li>
+  <br>
   <li>
-    Create a virtual environment (venv or myenv):
+    <strong>Create a virtual environment (venv or myenv):</strong>
     <ul>
       <li>python -m venv venv</li>
     </ul>
   </li>
+   <br>
   <li>
-    Activate the virtual environment (Windows):
+    <strong>Activate the virtual environment (Windows):</strong>
     <ul>
       <li>.\venv\Scripts\activate</li>
     </ul>
   </li>
+   <br>
   <li>
-    Install Python dependencies:
+    <strong>Install Python dependencies:</strong>
     <ul>
       <li>pip install -r requirements.txt</li>
     </ul>
   </li>
+   <br>
   <li>
-    Run the backend (Flask server) from the root folder:
+    <strong>Run the backend (Flask server) from the root folder:</strong>
     <ul>
       <li>python -m backend.app</li>
     </ul>
   </li>
+   <br>
   <li>
-    Run the frontend (React) from the frontend folder:
+    <strong>Run the frontend (React) from the frontend folder:</strong>
     <ul>
       <li>cd frontend</li>
       <li>npm install <em>(NOTE: you only need to do this once)</em></li>
