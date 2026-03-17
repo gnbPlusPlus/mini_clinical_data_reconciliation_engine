@@ -47,4 +47,11 @@
       <li>npm run dev</li>
     </ul>
   </li>
+  <br>
+  <li>
+    <strong>Visit localhost URL for frontend to interact with app:</strong>
+    <ul>
+      <li>Likely http://localhost:5173/</li>
+    </ul>
+  </li>
 </ol>
