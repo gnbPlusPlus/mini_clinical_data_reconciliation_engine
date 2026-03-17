@@ -8,12 +8,10 @@
   <img src="/frontend/src/assets/images/the_mini_reconciler_example_zoomed_out.PNG">
   <!--figcaption>Dashboard (zoomed out 75%)</figcaption-->
 </figure>
-<br>
 <figure>
   <img src="/frontend/src/assets/images/the_mini_reconciler_reconciliation_results.PNG">
   <!--figcaption>Reconciliation results modal</figcaption-->
 </figure>
-<br>
 <figure>
   <img src="/frontend/src/assets/images/the_mini_reconciler_validation_results.PNG">
   <!--figcaption>Validation results modal</figcaption-->
