@@ -4,7 +4,7 @@
 
 <br>
 
-<strong>Estimated time spent: </strong> 20 hours
+<strong>Estimated time spent: </strong> ~20 hours
 
 <br>
 
