@@ -51,7 +51,8 @@
   <li>
     <strong>Visit localhost URL for frontend to interact with app:</strong>
     <ul>
-      <li>Likely http://localhost:5173/</li>
+      <li>Likely frontend URL: http://localhost:5173/</li>
+      <li>Press F12 to monitor file uploads, file approvals, and blocked (status 400) requests.</li>
     </ul>
   </li>
 </ol>
