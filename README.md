@@ -4,11 +4,15 @@
 
 <br>
 
+<strong>Estimated time spent: </strong> 20 hours
+
+<br>
+
 <strong>Stack overview: </strong>
 <ul>
   <li>React frontend</li>
   <li>Flask backend</li>
-  <li>REST API communication</li>
+  <li>REST API communication (2 POST endpoints)</li>
   <li>JSON input/output</li>
 </ul>
 
@@ -107,15 +111,29 @@
 <strong>Tradeoffs, what I'd improve with more time: </strong>
 <ul>
   <li>I opted for an in-memory solution for storing approved reconciliation/validation results. This storage persists during a session (see below image) but wipes between refreshes, meaning it's not viable for production. I did this in the interest of time.</li>
+  
   <br>
   <figure>
-    <img>
+    <img src="/frontend/src/assets/images/local_storage_solution.PNG">
   </figure>
   <br>
+  
   <li>As aforementioned, the "LLM response" currently in use is actually a mock response meant for testing the app's functionality. I did this to avoid spending money on actual LLM responses.</li>
   <li>The frontend is very basic, and I'd like to implement a more aesthetically-pleasing design with more time. Also, if an invalid file is uploaded, the modal is simply blank (see below image). Some kind of error message would be more appropriate.</li>
+  
+  <br>
   <figure>
-    <img>
+    <img src="/frontend/src/assets/images/blank_modal.PNG">
   </figure>
 </ul>
+
+<br>
+
+<strong>Pytest results: </strong>
+<ul>
+  <li>The test files can be viewed in the tests folder.</li>
+  <li>Tests can be run with "pytest -v" in the terminal from the root folder.</li>
+</ul>
+<br>
+<img src="/frontend/src/assets/images/tests_passed.PNG">
 
