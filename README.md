@@ -1,11 +1,27 @@
 # Mini Clinical Data Reconciliation Engine README
+<style>
+  figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+
 <strong>About:</strong> (React + Flask) A mini clinical data reconciliation engine that demonstrates how OpenAI API can be used to reconcile conflicting medical records. Built for an internship pre-assessment.
 
 <strong>Images of app in-use:</strong>
 <br>
 <figure>
   <img src="/frontend/src/assets/images/the_mini_reconciler_example_zoomed_out.PNG">
-  <figcaption style="text-align: center;">Dashboard (zoomed out 75%)</figcaption>
+  <figcaption>Dashboard (zoomed out 75%)</figcaption>
 </figure>
 <br>
 <figure>
