@@ -7,7 +7,7 @@ Local setup instructions (I use VS Code & its terminal):
     Clone the repository:
     <ul>
       <li>git clone https://github.com/gnbPlusPlus/mini_clinical_data_reconciliation_engine.git</li>
-      <li>cd mini_clinical_data_reconciliation_engine</li>
+      <li>cd mini_clinical_data_reconciliation_engine <em>(NOTE: this is the root folder)</em></li>
     </ul>
   </li>
   <li>
@@ -38,7 +38,7 @@ Local setup instructions (I use VS Code & its terminal):
     Run the frontend (React) from the frontend folder:
     <ul>
       <li>cd frontend</li>
-      <li>npm install (NOTE: you only need to do this once)</li>
+      <li>npm install <em>(NOTE: you only need to do this once)</em></li>
       <li>npm run dev</li>
     </ul>
   </li>
