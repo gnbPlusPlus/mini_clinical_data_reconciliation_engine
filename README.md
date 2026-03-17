@@ -5,7 +5,7 @@
 <br>
 <figure>
   <img src="/frontend/src/assets/images/the_mini_reconciler_example_zoomed_out.PNG">
-  <figcaption>Dashboard (zoomed out 75%)</figcaption>
+  <figcaption style="text-align: center;">Dashboard (zoomed out 75%)</figcaption>
 </figure>
 <br>
 <figure>
