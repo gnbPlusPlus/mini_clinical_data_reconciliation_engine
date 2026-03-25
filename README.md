@@ -34,11 +34,6 @@
 </figure>
 <br>
 
-<strong>Video walkthrough (brief overview):</strong>
-<ul>
-  <li><a href="https://youtu.be/dbfyDVYCK4w">Link</a></li>
-</ul>
-
 <strong>Local setup instructions (I use VS Code & its terminal):</strong>
 <ol>
   <li>
